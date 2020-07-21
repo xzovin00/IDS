@@ -1,2 +1,2 @@
 # IDS
-A simple SQL database
+SQL implementation of a ER diagram.
